@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jaci/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jaci/static/js/main.3ce63c09.chunk.js",
+    "main.js.map": "/jaci/static/js/main.3ce63c09.chunk.js.map",
+    "runtime-main.js": "/jaci/static/js/runtime-main.daa400e3.js",
+    "runtime-main.js.map": "/jaci/static/js/runtime-main.daa400e3.js.map",
+    "static/js/2.2146724a.chunk.js": "/jaci/static/js/2.2146724a.chunk.js",
+    "static/js/2.2146724a.chunk.js.map": "/jaci/static/js/2.2146724a.chunk.js.map",
+    "index.html": "/jaci/index.html",
+    "precache-manifest.6ebf92c5f47429c5a35d9cd2632532d8.js": "/jaci/precache-manifest.6ebf92c5f47429c5a35d9cd2632532d8.js",
+    "service-worker.js": "/jaci/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/jaci/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2146724a.chunk.js.LICENSE.txt": "/jaci/static/js/2.2146724a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jaci/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daa400e3.js",
+    "static/js/2.2146724a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.3ce63c09.chunk.js"
+  ]
+}
