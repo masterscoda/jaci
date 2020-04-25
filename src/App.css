@@ -3,14 +3,9 @@
 }
 
 .App-logo {
+  animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
   pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
 
 .App-header {
@@ -26,6 +21,14 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.img-list {
+  /* background-image: url(./images/img1.jpg); */
+}
+
+.img-list2 {
+  /* background-image: url(./images/teaching4.jpg); */
 }
 
 @keyframes App-logo-spin {
