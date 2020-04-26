@@ -12,7 +12,9 @@ export default class About extends Component {
                 <div className="col-md-12">
                     <div className="about-desc">
                     <h2 className="colorlib-heading">About Me</h2>
-                    <p>I am Jaci. Professional educator committed to providing students with a supportive, engaging and purposeful learning environment. </p>
+                    <p>
+                        My name is Jaclyn Bossard. I will soon be graduating with a Bachelor of Science in elementary education K-6. I am interested in a position as an elementary classroom teacher. As an educator, I am dedicated to creating a safe space for all students and being a consistent role model in their lives. In my prior experiences, I have prided myself on the connections and relationships I have built with my students. Creating a learning space with mutual respect is my utmost priority. Throughout my teacher preparation program, I have reflected on my own teaching practices. This has allowed me to create and improve lessons and activities for students. These include guided reading, phonics, social studies, and science along with literacy and mathematics. I have also created a unit focused on animals and their habitats. This unit is integrated into not only science but also literacy stations and writing activities throughout the week. This unit along with other activities I have either created or taught can be found on this site. Please take the time to explore and if you have any further questions or would like to contact my references please reach out by email bossardjaclyn@gmail.com. Thank you for your time in exploring my teaching portfolio.  
+                    </p>
                     </div>
                 </div>
                 </div>
