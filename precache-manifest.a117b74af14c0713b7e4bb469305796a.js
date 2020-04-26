@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "776591a83922a807a0e8e0dc8bfefe65",
+    "revision": "0ac1e76da67afd4641f6a3d8911fc1ca",
     "url": "/jaci/index.html"
   },
   {
-    "revision": "e1776ccb2aa7693df3b3",
+    "revision": "3fc41760d23559c0b231",
     "url": "/jaci/static/css/main.243fcba6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jaci/static/js/2.696b8846.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1776ccb2aa7693df3b3",
-    "url": "/jaci/static/js/main.76ea6e7e.chunk.js"
+    "revision": "3fc41760d23559c0b231",
+    "url": "/jaci/static/js/main.48c50558.chunk.js"
   },
   {
     "revision": "d67fa064fc7df959b497",
